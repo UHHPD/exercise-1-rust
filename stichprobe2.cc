@@ -16,7 +16,7 @@ int main() {
         file >> arr[i];
     }
     int num = 234/9;
-    int sum[num];
+    double sum[num];
     for (int i = 0; i < num; ++i) {
         sum[i] = 0;
         for (int j = 0; j < 9; ++j) {
